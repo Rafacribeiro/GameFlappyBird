@@ -8,7 +8,7 @@ Jogo Flappy Bird feito em JavaScript.
 
  
 
-![previewCalculator](C:\Users\rafae\OneDrive\Área de Trabalho\flappyBird\previewFlappyBird.jpeg)
+![previewFlappyBird](https://user-images.githubusercontent.com/99810723/173242174-8206c5a5-7b36-4064-b067-ccaef461088f.jpeg)
 
 
 
